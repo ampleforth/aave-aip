@@ -57,7 +57,7 @@ The asset will be listed in the current AAVE V2 market.
 
 Ampleforth launched in July, 2019. Since then, Ample has executed over 550 days of rebases. The network was subject to extreme growth and volatility following the launch of the Geyser liquidity mining program in July 2020. It has shown resilience with a lifetime median price of $1.00 and average price of $1.02 (vs target price of $1.02). There are currently over 22K holders and is a top 100 currency by Market Cap.
 
-Onchain network history viewable on [Dashboard(https://www.ampleforth.org/dashboard/).
+Onchain network history viewable on [Dashboard](https://www.ampleforth.org/dashboard/).
 
 5. How is the asset currently used?
 
