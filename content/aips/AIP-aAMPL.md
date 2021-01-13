@@ -32,7 +32,7 @@ Being able to borrow and lend AMPL would enable holders to:
 
 - Utilize a new, low-correlated collateral asset which could reduce risk
 - Decrease exposure to rebases in exchange for income from interest
-- Use a non-collateralized asset that “borrows like a stablecoin"
+- Use a non-collateralized asset that “[borrows like a stablecoin](https://medium.com/ampleforth/elastic-finance-lending-213e02de0583)"
 - Create leveraged AMPL trades and unlock derivatives
 - Create interest bearing AMPL that can be staked in other protocols
 - Increase exposure to AMPL & farming
